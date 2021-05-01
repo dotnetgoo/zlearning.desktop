@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZLearning Desktop", "ZLearning Desktop\ZLearning Desktop.csproj", "{F60532B7-31FD-4835-B025-78418BD32064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60532B7-31FD-4835-B025-78418BD32064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60532B7-31FD-4835-B025-78418BD32064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60532B7-31FD-4835-B025-78418BD32064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60532B7-31FD-4835-B025-78418BD32064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB3F5EDD-E3A7-4277-B73F-48059A28BF94}
+	EndGlobalSection
+EndGlobal
